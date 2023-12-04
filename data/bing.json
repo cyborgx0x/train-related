@@ -1,0 +1,239 @@
+{
+    "search_metadata": {
+        "id": "6510e173d5ecf4d28aa1e58c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/64f6157f836acee1/6510e173d5ecf4d28aa1e58c.json",
+        "created_at": "2023-09-25 01:25:07 UTC",
+        "processed_at": "2023-09-25 01:25:07 UTC",
+        "bing_url": "https://www.bing.com/search?form=QBRE&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&lq=0&first=2&count=20&rdr=1",
+        "raw_html_file": "https://serpapi.com/searches/64f6157f836acee1/6510e173d5ecf4d28aa1e58c.html",
+        "total_time_taken": 1.72
+    },
+    "search_parameters": {
+        "q": "2 Casino Ransomware Attacks: Caesars, MGM",
+        "device": "desktop",
+        "first": "2",
+        "count": "20",
+        "engine": "bing"
+    },
+    "search_information": {
+        "total_results": 2
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "MGM reeling from cyber 'chaos' 5 days after attack as Caesars ...",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=a70befa689e1dabeJmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTE1NA&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9CdXNpbmVzcy9tZ20tcmVlbGluZy1jeWJlci1jaGFvcy01LWRheXMtYWZ0ZXItYXR0YWNrL3N0b3J5P2lkPTEwMzE0ODgwOQ&ntb=1",
+            "link": "https://abcnews.go.com/Business/mgm-reeling-cyber...",
+            "date": "Sep 14, 2023",
+            "displayed_link": "https://abcnews.go.com/Business/mgm-reeling-cyber...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.7f793646-523a-48c1-83ab-1d732d35b351&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "Caesars Entertainment -- which runs more than 50 resorts including, Caesars Palace and Harrah's in Las Vegas -- acknowledged the attack occurred on Sept. 7 in a filing Thursday with the U.S ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4525478492897401&w=dY4AZiUHeg8J8wWD3npV27lqv2cVgmj9"
+        },
+        {
+            "position": 2,
+            "title": "Caesars Reportedly Paid Hackers Ransomware Demand - Casino\u2026",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=2f9886be7b6794e0JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTE4Mg&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuY2FzaW5vLm9yZy9uZXdzL2NhZXNhcnMtcmVwb3J0ZWRseS1wYWlkLWhhY2tlcnMtcmFuc29td2FyZS1kZW1hbmQv&ntb=1",
+            "link": "https://www.casino.org/news/caesars-reportedly...",
+            "date": "Sep 13, 2023",
+            "displayed_link": "https://www.casino.org/news/caesars-reportedly...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.54c76932-cf79-4d67-b056-d10e82630cba&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "Caesars hasn\u2019t officially disclosed the financial magnitude of the cyber attack it endured, and MGM hasn\u2019t confirmed it\u2019s dealing with a ransomware scenario. Still, some adverse effects ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4546609732329211&w=ynMpJiDjEHMTjy7qLf-UGc96WsGzDD2w"
+        },
+        {
+            "position": 3,
+            "title": "MGM casino's ESXi servers allegedly encrypted in ransomware attack",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=449ee9f57c151833JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTIxMw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9tZ20tY2FzaW5vcy1lc3hpLXNlcnZlcnMtYWxsZWdlZGx5LWVuY3J5cHRlZC1pbi1yYW5zb213YXJlLWF0dGFjay8&ntb=1",
+            "link": "https://www.bleepingcomputer.com/news/security/mgm...",
+            "date": "Sep 14, 2023",
+            "displayed_link": "https://www.bleepingcomputer.com/news/security/mgm...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.df0800ab-429e-4fcd-b779-73253c3c9262&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "06:52 PM. 2. An affiliate of the BlackCat ransomware group, also known as APLHV, is behind the attack that disrupted MGM Resorts\u2019 operations, forcing the company to shut down IT systems. In a ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4561719429041597&w=wRAbHfrPQFgabnhSWeEgHdmpkyaMIu3E"
+        },
+        {
+            "position": 4,
+            "title": "Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware \u2026",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=71cba49097ef7ad2JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTI0Mw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L21nbS1jZWFzYXJzLWhhY2stcmFuc29td2FyZS8&ntb=1",
+            "link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware",
+            "date": "Sep 16, 2023",
+            "displayed_link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware",
+            "thumbnail": "//th.bing.com/th?id=ODLS.34f5450e-4574-4b8f-a9b8-179382f11e9d&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "The casino and hotel company MGM Resorts has dealt with widespread system outages and service disruptions at its properties in Las Vegas and elsewhere this week following a cyberattack that the ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4919258275404185&w=lwG4GnU2oW-9BX2_iyn30AoEbwuJkGl_"
+        },
+        {
+            "position": 5,
+            "title": "The chaotic and cinematic MGM casino hack, explained",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=d47928d2a2a4d8b8JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTI3NQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cudm94LmNvbS90ZWNobm9sb2d5LzIwMjMvOS8xNS8yMzg3NTExMy9tZ20taGFjay1jYXNpbm8tdmlzaGluZy1jeWJlcnNlY3VyaXR5LXJhbnNvbXdhcmU&ntb=1",
+            "link": "https://www.vox.com/technology/2023/9/15/23875113",
+            "date": "Sep 15, 2023",
+            "displayed_link": "https://www.vox.com/technology/2023/9/15/23875113",
+            "thumbnail": "//th.bing.com/th?id=ODLS.e70d99b7-fe05-4dc4-aa26-68ea4357e288&w=32&h=32&qlt=94&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "MGM is a client of Okta\u2019s and the company has been assisting MGM in the wake of the attack, the report said. Someone claiming to be a representative of Scattered Spider told the Financial Times ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4629073102120898&w=e_WiJIzlxp85DxKASByLi0febUss1snK"
+        },
+        {
+            "position": 6,
+            "title": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=9fe98c387754ddb2JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTMwNw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly9lbmVyZ3ljZW50cmFsLmNvbS9jL3VtLzItY2FzaW5vLXJhbnNvbXdhcmUtYXR0YWNrcy1jYWVzYXJzLXBhaWQtbWdtLWRpZC1ub3Q&ntb=1",
+            "link": "https://energycentral.com/c/um/2-casino-ransomware...",
+            "date": "Sep 20, 2023",
+            "displayed_link": "https://energycentral.com/c/um/2-casino-ransomware...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.bb72a19e-ff82-4b72-acc9-c06aafdbbee0&w=32&h=32&qlt=95&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not. Within weeks, two of the world\u2019s largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the hackers\u2019 demands, while the other is resisting.",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4850998356486329&w=-wPOnrYbBN-d-rUKEVYo3FBZXp1QElzE"
+        },
+        {
+            "position": 7,
+            "title": "Casino giant Caesars Entertainment reports cyberattack : NPR",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=51e4918c5b3c3fe4JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTMzNw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cubnByLm9yZy8yMDIzLzA5LzE1LzExOTk2ODEyMzQvY3liZXJhdHRhY2tzLXN0cmlrZS1jYXNpbm8tZ2lhbnRzLWNhZXNhcnMtYW5kLW1nbQ&ntb=1",
+            "link": "https://www.npr.org/2023/09/15/1199681234",
+            "date": "Sep 15, 2023",
+            "displayed_link": "https://www.npr.org/2023/09/15/1199681234",
+            "thumbnail": "//th.bing.com/th?id=ODLS.0eb0e3de-29ae-4657-9ce5-cfea58198d72&w=32&h=32&qlt=96&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "John Locher/AP. LAS VEGAS \u2014 Casino company Caesars Entertainment on Thursday joined Las Vegas gambling rival MGM Resorts International in reporting that it was hit by a cyberattack, but added in ..."
+        },
+        {
+            "position": 8,
+            "title": "Caesars Entertainment Paid Millions to Hackers in Attack",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=173f81259c3d132dJmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTM2OA&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjMtMDktMTMvY2Flc2Fycy1lbnRlcnRhaW5tZW50LXBhaWQtbWlsbGlvbnMtaW4tcmFuc29tLWluLXJlY2VudC1hdHRhY2s&ntb=1",
+            "link": "https://www.bloomberg.com/news/articles/2023-09-13/...",
+            "date": "Sep 13, 2023",
+            "displayed_link": "https://www.bloomberg.com/news/articles/2023-09-13/...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.29dc045f-20d3-4b70-9890-bc68420a1494&w=32&h=32&qlt=97&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "September 14, 2023 at 6:55 AM PDT. Listen. 2:06. Caesars Entertainment Inc. paid tens of millions of dollars to hackers who broke into the company\u2019s systems in recent weeks and threatened to ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4966485730136626&w=Lry2Knh-3lLSfzzsd8pHj5lpTp94GDd3"
+        },
+        {
+            "position": 9,
+            "title": "Inside The Ransomware Attack That Shut Down MGM Resorts",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=351e21a10b764651JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTM5Nw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cubXNuLmNvbS9lbi11cy9tb25leS9jb21wYW5pZXMvaW5zaWRlLXRoZS1yYW5zb213YXJlLWF0dGFjay10aGF0LXNodXQtZG93bi1tZ20tcmVzb3J0cy9hci1BQTFnRmdFUw&ntb=1",
+            "link": "https://www.msn.com/en-us/money/companies/inside...",
+            "displayed_link": "https://www.msn.com/en-us/money/companies/inside...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.179c40e6-b0c5-44be-a282-5125d2122198&w=32&h=32&qlt=98&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "WebIn the quarter that ended on June 30, MGM reported that its Las Vegas Strip properties generated revenue of $1.2 billion just from hotel rooms and casinos. Based on those figures, MGM\u2019s Vegas ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=3601666019295&w=Amc4NUCWI4s81LeROyBeN0-GQ5dSFTkX"
+        },
+        {
+            "position": 10,
+            "title": "Caesars and MGM grapple with cybeattacks as their security in \u2026",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=b1a1cea2363d5aafJmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTQyOQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuY25uLmNvbS8yMDIzLzA5LzE0L2J1c2luZXNzL2NhZXNhcnMtbWdtLWNhc2luby1jeWJlcmF0dGFjay9pbmRleC5odG1s&ntb=1",
+            "link": "https://www.cnn.com/2023/09/14/business/caesars-mgm...",
+            "date": "Sep 14, 2023",
+            "displayed_link": "https://www.cnn.com/2023/09/14/business/caesars-mgm...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.7d256d83-43ce-4a52-9624-24fe2eb7d442&w=32&h=32&qlt=99&pcl=fffffa&o=6&pid=1.2",
+            "snippet": "Hackers stole Social Security numbers and driver\u2019s license numbers from a \u201csignificant number\u201d of loyalty program customers of Caesars Entertainment, the hospitality and casino giant said ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=3395012663678&w=sEIgMiwI5qWL7ItEyhf-gU5ZgN3thOAV"
+        },
+        {
+            "position": 11,
+            "title": "Lance Spitzner on LinkedIn: 2 Casino Ransomware Attacks: Caesars \u2026",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=d2540ec273482954JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTQ1Ng&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2xhbmNlc3BpdHpuZXJfMi1jYXNpbm8tcmFuc29td2FyZS1hdHRhY2tzLWNhZXNhcnMtcGFpZC1hY3Rpdml0eS03MTA5OTAxNjg3NTU2ODgyNDMyLXgzbVU&ntb=1",
+            "link": "https://www.linkedin.com/posts/lancespitzner_2...",
+            "displayed_link": "https://www.linkedin.com/posts/lancespitzner_2...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "WebLance Spitzner. Great write-up from Forbes on the MGM and Caesar Ransomware attacks. Many people may not realize this but the vast majority of casinos in Las Vegas are really owned by two ..."
+        },
+        {
+            "position": 12,
+            "title": "Suzanne Rowan Kelleher - Forbes",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=3f65cf6df212fa12JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTQ4Mw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zdXphbm5lcm93YW5rZWxsZWhlci8&ntb=1",
+            "link": "https://www.forbes.com/sites/suzannerowankelleher",
+            "date": "Sep 14, 2023",
+            "displayed_link": "https://www.forbes.com/sites/suzannerowankelleher",
+            "thumbnail": "//th.bing.com/th?id=ODLS.233378af-6b45-4de4-ac21-bea2431d7b90&w=32&h=32&qlt=91&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not. Within weeks, two of the world\u2019s largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4997821819192619&w=2KEKLaPN0kvgv38MoQfdDL9BAmvbq9lj"
+        },
+        {
+            "position": 13,
+            "title": "Katie S. on LinkedIn: 2 Casino Ransomware Attacks: Caesars Paid, MGM \u2026",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=f06fddeb8ff381ebJmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTUxMQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL3NodWNra2F0aWVfMi1jYXNpbm8tcmFuc29td2FyZS1hdHRhY2tzLWNhZXNhcnMtcGFpZC1hY3Rpdml0eS03MTEwNTI3NzMzOTc3MjkyODAwLTJzZFA&ntb=1",
+            "link": "https://www.linkedin.com/posts/shuckkatie_2-casino...",
+            "displayed_link": "https://www.linkedin.com/posts/shuckkatie_2-casino...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=92&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "WebLance Spitzner. Great write-up from Forbes on the MGM and Caesar Ransomware attacks. Many people may not realize this but the vast majority of casinos in Las Vegas are really owned by two ..."
+        },
+        {
+            "position": 14,
+            "title": "MGM and Caesars were both hacked by the same group | Fortune",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=83494dacd5a5a0b3JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTU0MQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIzLzA5LzEzL21nbS1jYWVzYXJzLWhhY2tlZC1yYW5zb213YXJlLw&ntb=1",
+            "link": "https://fortune.com/2023/09/13/mgm-caesars-hacked-ransomware",
+            "date": "Sep 13, 2023",
+            "displayed_link": "https://fortune.com/2023/09/13/mgm-caesars-hacked-ransomware",
+            "thumbnail": "//th.bing.com/th?id=ODLS.ec7bd0ef-f804-4781-b62c-abb26418e2fb&w=32&h=32&qlt=93&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "Over the past few weeks, MGM and Caesars were both hacked by one of the most \u2018aggressive threat actors\u2019 targeting the U.S. The Park MGM hotel and casino in Las Vegas. MGM Resorts International ..."
+        },
+        {
+            "position": 15,
+            "title": "Caren Kelleher - Forbes",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=68780288a95cb38cJmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTU2Nw&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9wcm9maWxlL2NhcmVuLWtlbGxlaGVyLw&ntb=1",
+            "link": "https://www.forbes.com/profile/caren-kelleher",
+            "displayed_link": "https://www.forbes.com/profile/caren-kelleher",
+            "thumbnail": "//th.bing.com/th?id=ODLS.233378af-6b45-4de4-ac21-bea2431d7b90&w=32&h=32&qlt=94&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "Web2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not. Within weeks, two of the world\u2019s largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4528184321205677&w=4FMDI0Y8Y84LLk0Tw81c_fzHYdXlQ31x"
+        },
+        {
+            "position": 16,
+            "title": "Caesars confirms data theft as MGM casino outage drags on",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=1aeb7083df2f1fa1JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTU5OQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tLzIwMjMvMDkvMTQvY2Flc2Fyc19tZ21faGFja3Mv&ntb=1",
+            "link": "https://www.theregister.com/2023/09/14/caesars_mgm_hacks",
+            "date": "Sep 14, 2023",
+            "displayed_link": "https://www.theregister.com/2023/09/14/caesars_mgm_hacks",
+            "thumbnail": "//th.bing.com/th?id=ODLS.4281a296-4c47-4cba-8219-c3612b3d328c&w=32&h=32&qlt=95&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "Thu 14 Sep 2023 // 20:13 UTC. Casino giant Caesars Entertainment has confirmed miscreants stole a database containing customer info, including driver license and social security numbers for a \"significant number\" of its loyalty program members, in a social engineering attack earlier this month. The admission comes as MGM Resorts \u2026",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4682738542641337&w=HFn2PNrkMjJRdsyQ45qPhReFVwnkmSdR"
+        },
+        {
+            "position": 17,
+            "title": "Suzanne Ashman - Forbes",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=98b518bb2f6d14e6JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTYyNg&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9wcm9maWxlL3N1emFubmUtYXNobWFuLw&ntb=1",
+            "link": "https://www.forbes.com/profile/suzanne-ashman",
+            "displayed_link": "https://www.forbes.com/profile/suzanne-ashman",
+            "thumbnail": "//th.bing.com/th?id=ODLS.233378af-6b45-4de4-ac21-bea2431d7b90&w=32&h=32&qlt=96&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "Web2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not. Within weeks, two of the world\u2019s largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=5016556462149557&w=CdPM7yNzT7HpRBoQ6_aTI3Rsw1c5X4lk"
+        },
+        {
+            "position": 18,
+            "title": "The Lost Art Of Software - Forbes",
+            "tracking_link": "https://www.bing.com/ck/a?!&&p=7237f67241482509JmltdHM9MTY5NTUxMzYwMCZpZ3VpZD01MTZiZTU3MC1iNTlhLTRiMWItODBhYi0yZWJlYzhlMGQyOTYmaW5zaWQ9NTY1NQ&ptn=3&hsh=3&fclid=516be570-b59a-4b1b-80ab-2ebec8e0d296&psq=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&u=a1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9mb3JiZXN0ZWNoY291bmNpbC8yMDIwLzA5LzI5L3RoZS1sb3N0LWFydC1vZi1zb2Z0d2FyZS8&ntb=1",
+            "link": "https://www.forbes.com/sites/forbestechcouncil/...",
+            "date": "Sep 29, 2020",
+            "displayed_link": "https://www.forbes.com/sites/forbestechcouncil/...",
+            "thumbnail": "//th.bing.com/th?id=ODLS.233378af-6b45-4de4-ac21-bea2431d7b90&w=32&h=32&qlt=97&pcl=fffffc&o=6&pid=1.2",
+            "snippet": "2 Casino Ransomware Attacks Caesars Paid MGM Did Not. The software development life cycle tends to resist the traditional rules that govern other forms of engineering. That disconnect can manifest ...",
+            "cached_page_link": "https://cc.bingj.com/cache.aspx?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&d=4617768744912611&w=z8w9zOWqMygz63l2-vNjrZVl0oYwH-NW"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=22&FORM=PORE",
+        "previous": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=1&FORM=PQRE",
+        "other_pages": {
+            "1": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=1&FORM=PERE",
+            "3": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=22&FORM=PERE1",
+            "4": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=42&FORM=PERE2",
+            "5": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=62&FORM=PERE3",
+            "6": "https://www.bing.com/search?lq=0&count=20&rdr=1&q=2+Casino+Ransomware+Attacks%3a+Caesars%2c+MGM&first=82&FORM=PERE4"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=1&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+        "previous": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=1&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+        "next_link": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=22&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+        "next": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=22&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=1&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+            "3": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=22&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+            "4": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=42&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+            "5": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=62&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM",
+            "6": "https://serpapi.com/search.json?count=20&device=desktop&engine=bing&first=82&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM"
+        }
+    }
+}

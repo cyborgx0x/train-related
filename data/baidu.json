@@ -1,0 +1,225 @@
+{
+    "search_metadata": {
+        "id": "6510f809ce87f85074bbcaef",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e5dd87c9b19a89cf/6510f809ce87f85074bbcaef.json",
+        "created_at": "2023-09-25 03:01:29 UTC",
+        "processed_at": "2023-09-25 03:01:29 UTC",
+        "baidu_news_url": "https://www.baidu.com/s?wd=Biden+visits+Vietnam&tn=news&bsst=1&cl=2&rtt=1",
+        "raw_html_file": "https://serpapi.com/searches/e5dd87c9b19a89cf/6510f809ce87f85074bbcaef.html",
+        "total_time_taken": 3.33
+    },
+    "search_parameters": {
+        "engine": "baidu_news",
+        "q": "Biden visits Vietnam",
+        "rtt": "1"
+    },
+    "search_information": {
+        "total_results": 0
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "\u3010\u53cc\u8bed\u3011\u4f8b\u884c\u8bb0\u8005\u4f1a/Regular Press Conference(2021-9-13)",
+            "link": "https://www.thepaper.cn/newsDetail_forward_14495755",
+            "date": "2021\u5e749\u670814\u65e5",
+            "snippet": "The Vietnamese side said that the party, government and people of Vietnam always attach great importance to developing sustained, sound and stable relations with the party,...",
+            "source": "\u6f8e\u6e43\u65b0\u95fb",
+            "thumbnail": "https://t7.baidu.com/it/u=693448585,1287327951&fm=217&app=126&size=f242,162&n=0&g=0n&f=JPEG?s=F28BB144FCCA505511A867B20300E09C&sec=1695697292&t=9e45dec186a2b664499dc9b7b1092977"
+        }
+    ],
+    "top_searches": [
+        {
+            "position": 1,
+            "text": "\u65f6\u653f\u5fae\u7eaa\u5f55\u4e28\u4e60\u8fd1\u5e73\u7684\u4e9a\u8fd0\u4f1a\u65f6\u95f4",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E6%97%B6%E6%94%BF%E5%BE%AE%E7%BA%AA%E5%BD%95%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%97%B6%E9%97%B4&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_1&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E6%97%B6%E6%94%BF%E5%BE%AE%E7%BA%AA%E5%BD%95%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%97%B6%E9%97%B4&rtt=1"
+        },
+        {
+            "position": 2,
+            "text": "\u6c6a\u987a\uff1a\u8bf4\u6211\u4e0d\u884c\u7684\u4eba\u8fd9\u4e2a\u6210\u7ee9\u8fd8\u884c\u5417",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E6%B1%AA%E9%A1%BA%EF%BC%9A%E8%AF%B4%E6%88%91%E4%B8%8D%E8%A1%8C%E7%9A%84%E4%BA%BA%E8%BF%99%E4%B8%AA%E6%88%90%E7%BB%A9%E8%BF%98%E8%A1%8C%E5%90%97&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_2&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E6%B1%AA%E9%A1%BA%EF%BC%9A%E8%AF%B4%E6%88%91%E4%B8%8D%E8%A1%8C%E7%9A%84%E4%BA%BA%E8%BF%99%E4%B8%AA%E6%88%90%E7%BB%A9%E8%BF%98%E8%A1%8C%E5%90%97&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 3,
+            "text": "\u4e8b\u5173\u5343\u4e07\u4eba \u5b58\u91cf\u623f\u8d37\u4eca\u8d77\u4e0b\u8c03",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E4%BA%8B%E5%85%B3%E5%8D%83%E4%B8%87%E4%BA%BA%20%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E4%BB%8A%E8%B5%B7%E4%B8%8B%E8%B0%83&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_3&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E4%BA%8B%E5%85%B3%E5%8D%83%E4%B8%87%E4%BA%BA+%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E4%BB%8A%E8%B5%B7%E4%B8%8B%E8%B0%83&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 4,
+            "text": "\u91d1\u724c\u5237\u5c4f \u4e2d\u56fd\u4f53\u80b2\u4ee3\u8868\u56e2\u72c2\u63fd11\u91d1",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E9%87%91%E7%89%8C%E5%88%B7%E5%B1%8F%20%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%8B%82%E6%8F%BD11%E9%87%91&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_4&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E9%87%91%E7%89%8C%E5%88%B7%E5%B1%8F+%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%8B%82%E6%8F%BD11%E9%87%91&rtt=1"
+        },
+        {
+            "position": 5,
+            "text": "\u4f0a\u6717\u6559\u7ec3\u79f0\u51fb\u8d25\u65e5\u672c\u662f\u5386\u53f2\u6027\u4e00\u523b",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_5&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&rtt=1"
+        },
+        {
+            "position": 6,
+            "text": "\u5b69\u5b50\u624e\u5806\u73a9\u201c\u841d\u535c\u5200\u201d\u5f15\u62c5\u5fe7",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_6&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 7,
+            "text": "\u5218\u5b66\u5dde\u5bb6\u5c5e\u8981\u6c42\u7f51\u66b4\u5927V\u516c\u5f00\u9053\u6b49",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%88%98%E5%AD%A6%E5%B7%9E%E5%AE%B6%E5%B1%9E%E8%A6%81%E6%B1%82%E7%BD%91%E6%9A%B4%E5%A4%A7V%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_7&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%88%98%E5%AD%A6%E5%B7%9E%E5%AE%B6%E5%B1%9E%E8%A6%81%E6%B1%82%E7%BD%91%E6%9A%B4%E5%A4%A7V%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&rtt=1"
+        },
+        {
+            "position": 8,
+            "text": "34\u5c81\u521d\u4e2d\u8001\u5e08\u91cd\u65b0\u9ad8\u8003\u8f6c\u5b66\u53e3\u8154\u533b\u5b66",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=34%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_8&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=34%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6&rtt=1"
+        },
+        {
+            "position": 9,
+            "text": "\u8b66\u65b9\u8f9f\u8c23\u6c5f\u897f\u4e00\u5c0f\u533a\u53d1\u751f\u5206\u5c38\u6848",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=f914LwVdHPIDDq70NfKVRhr%2FzsPTmXCtQfHiedyTlNQxZTUL6a%2FXGkBdfA&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_9&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&rtt=1"
+        },
+        {
+            "position": 10,
+            "text": "\u5f20\u96e8\u970f\u78be\u538b\u593a\u51a0\uff01\u5237\u65b0\u4e9a\u8fd0\u7eaa\u5f55",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%A2%BE%E5%8E%8B%E5%A4%BA%E5%86%A0%EF%BC%81%E5%88%B7%E6%96%B0%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_10&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%A2%BE%E5%8E%8B%E5%A4%BA%E5%86%A0%EF%BC%81%E5%88%B7%E6%96%B0%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&rtt=1"
+        },
+        {
+            "position": 11,
+            "text": "\u6cd5\u5a92\uff1a\u673a\u5668\u4eba\u201c\u63a5\u7ba1\u201d\u676d\u5dde\u4e9a\u8fd0\u4f1a",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E6%B3%95%E5%AA%92%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%8E%A5%E7%AE%A1%E2%80%9D%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_11&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E6%B3%95%E5%AA%92%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%8E%A5%E7%AE%A1%E2%80%9D%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A&rtt=1"
+        },
+        {
+            "position": 12,
+            "text": "\u5916\u56fd\u8fd0\u52a8\u5458\u901b\u5e02\u573a\u5f00\u53e3\u5c31\u5bf9\u534a\u780d\u4ef7",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%9B%E5%B8%82%E5%9C%BA%E5%BC%80%E5%8F%A3%E5%B0%B1%E5%AF%B9%E5%8D%8A%E7%A0%8D%E4%BB%B7&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_12&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%9B%E5%B8%82%E5%9C%BA%E5%BC%80%E5%8F%A3%E5%B0%B1%E5%AF%B9%E5%8D%8A%E7%A0%8D%E4%BB%B7&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 13,
+            "text": "\u65e5\u5a92\uff1a\u65e5\u672c\u7537\u4e52\u4ee5\u201c\u5c48\u8fb1\u6bd4\u5206\u201d\u51fa\u5c40",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%94%B7%E4%B9%92%E4%BB%A5%E2%80%9C%E5%B1%88%E8%BE%B1%E6%AF%94%E5%88%86%E2%80%9D%E5%87%BA%E5%B1%80&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_13&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%94%B7%E4%B9%92%E4%BB%A5%E2%80%9C%E5%B1%88%E8%BE%B1%E6%AF%94%E5%88%86%E2%80%9D%E5%87%BA%E5%B1%80&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 14,
+            "text": "\u5973\u751f\u82b17000\u5143\u770b\u5468\u6770\u4f26\u6f14\u5531\u4f1a\u5fd8\u5e26\u7968",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_14&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8&rtt=1",
+            "tag": "\u70ed"
+        },
+        {
+            "position": 15,
+            "text": "\u56fd\u5b89\u90e8\u66dd\u5149\u591a\u4e2a\u201c\u95f4\u8c0d\u7f51\u52fe\u201d\u6848\u4f8b",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%9B%9D%E5%85%89%E5%A4%9A%E4%B8%AA%E2%80%9C%E9%97%B4%E8%B0%8D%E7%BD%91%E5%8B%BE%E2%80%9D%E6%A1%88%E4%BE%8B&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_1_15_15&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%9B%9D%E5%85%89%E5%A4%9A%E4%B8%AA%E2%80%9C%E9%97%B4%E8%B0%8D%E7%BD%91%E5%8B%BE%E2%80%9D%E6%A1%88%E4%BE%8B&rtt=1"
+        },
+        {
+            "position": 16,
+            "text": "\u592b\u59bb\u722c\u6cf0\u5c71\u5c06\u5b69\u5b50\u72ec\u7559\u8f66\u51854\u5c0f\u65f6",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%A4%AB%E5%A6%BB%E7%88%AC%E6%B3%B0%E5%B1%B1%E5%B0%86%E5%AD%A9%E5%AD%90%E7%8B%AC%E7%95%99%E8%BD%A6%E5%86%854%E5%B0%8F%E6%97%B6&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_16&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%A4%AB%E5%A6%BB%E7%88%AC%E6%B3%B0%E5%B1%B1%E5%B0%86%E5%AD%A9%E5%AD%90%E7%8B%AC%E7%95%99%E8%BD%A6%E5%86%854%E5%B0%8F%E6%97%B6&rtt=1"
+        },
+        {
+            "position": 17,
+            "text": "\u5f20\u96e8\u970f\u6253\u783413\u5e74\u4e9a\u8fd0\u4f1a\u7eaa\u5f55",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%93%E7%A0%B413%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_17&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%93%E7%A0%B413%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&rtt=1"
+        },
+        {
+            "position": 18,
+            "text": "\u5973\u751f\u8bef\u5c06\u81ea\u62cd\u53d1\u5de5\u4f5c\u7fa42\u5206\u949f\u64a450\u5f20",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%A5%B3%E7%94%9F%E8%AF%AF%E5%B0%86%E8%87%AA%E6%8B%8D%E5%8F%91%E5%B7%A5%E4%BD%9C%E7%BE%A42%E5%88%86%E9%92%9F%E6%92%A450%E5%BC%A0&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_18&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%A5%B3%E7%94%9F%E8%AF%AF%E5%B0%86%E8%87%AA%E6%8B%8D%E5%8F%91%E5%B7%A5%E4%BD%9C%E7%BE%A42%E5%88%86%E9%92%9F%E6%92%A450%E5%BC%A0&rtt=1"
+        },
+        {
+            "position": 19,
+            "text": "\u5c71\u91cc\u5a03\u51ed\u5929\u7c41\u4e4b\u97f3\u60ca\u8273\u4e9a\u8fd0\u5f00\u5e55\u5f0f",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%B1%B1%E9%87%8C%E5%A8%83%E5%87%AD%E5%A4%A9%E7%B1%81%E4%B9%8B%E9%9F%B3%E6%83%8A%E8%89%B3%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=a49a3ktv%2ByFxV8w6Ni59%2F0l20N5i8u1S7TqRXQGvM%2BNErUZ6bONb64OzQw&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_19&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%B1%B1%E9%87%8C%E5%A8%83%E5%87%AD%E5%A4%A9%E7%B1%81%E4%B9%8B%E9%9F%B3%E6%83%8A%E8%89%B3%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&rtt=1"
+        },
+        {
+            "position": 20,
+            "text": "\u526f\u6821\u957f\u4e0e\u4e3b\u4efb\u51fa\u5dee\u540c\u623f\u8fc7\u591c \u5747\u88ab\u514d\u804c",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%89%AF%E6%A0%A1%E9%95%BF%E4%B8%8E%E4%B8%BB%E4%BB%BB%E5%87%BA%E5%B7%AE%E5%90%8C%E6%88%BF%E8%BF%87%E5%A4%9C%20%E5%9D%87%E8%A2%AB%E5%85%8D%E8%81%8C&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_20&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%89%AF%E6%A0%A1%E9%95%BF%E4%B8%8E%E4%B8%BB%E4%BB%BB%E5%87%BA%E5%B7%AE%E5%90%8C%E6%88%BF%E8%BF%87%E5%A4%9C+%E5%9D%87%E8%A2%AB%E5%85%8D%E8%81%8C&rtt=1"
+        },
+        {
+            "position": 21,
+            "text": "\u9648\u68a611\u6bd40",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E9%99%88%E6%A2%A611%E6%AF%940&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_21&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E9%99%88%E6%A2%A611%E6%AF%940&rtt=1"
+        },
+        {
+            "position": 22,
+            "text": "\u4e2d\u56fd\u592b\u59bb\u4f4f\u56fd\u5916\u6c11\u5bbf\u53d1\u73b0\u6444\u50cf\u5934",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E4%BD%8F%E5%9B%BD%E5%A4%96%E6%B0%91%E5%AE%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_22&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E4%BD%8F%E5%9B%BD%E5%A4%96%E6%B0%91%E5%AE%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&rtt=1"
+        },
+        {
+            "position": 23,
+            "text": "\u4f55\u7337\u541b\u4e9a\u8fd0\u4f1a\u5f00\u5e55\u5f0f\u7b11\u6210\u5927\u718a\u732b",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%AC%91%E6%88%90%E5%A4%A7%E7%86%8A%E7%8C%AB&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_23&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%AC%91%E6%88%90%E5%A4%A7%E7%86%8A%E7%8C%AB&rtt=1"
+        },
+        {
+            "position": 24,
+            "text": "\u91ce\u751f\u5927\u718a\u732b\u8fdb\u6751\u88ab\u6551",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%BF%9B%E6%9D%91%E8%A2%AB%E6%95%91&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_24&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%BF%9B%E6%9D%91%E8%A2%AB%E6%95%91&rtt=1"
+        },
+        {
+            "position": 25,
+            "text": "\u4e2d\u56fd\u53f0\u5317\u8fd0\u52a8\u5458\u593a\u91d1\u62b1\u5934\u54ed\u6ce3",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E8%BF%90%E5%8A%A8%E5%91%98%E5%A4%BA%E9%87%91%E6%8A%B1%E5%A4%B4%E5%93%AD%E6%B3%A3&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_25&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E8%BF%90%E5%8A%A8%E5%91%98%E5%A4%BA%E9%87%91%E6%8A%B1%E5%A4%B4%E5%93%AD%E6%B3%A3&rtt=1"
+        },
+        {
+            "position": 26,
+            "text": "\u7f8e\u5a92\uff1a\u7f8e\u53d1\u5e03\u5bf9\u534e\u82af\u7247\u8bbe\u9650\u6700\u7ec8\u89c4\u5219",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%8F%91%E5%B8%83%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E8%AE%BE%E9%99%90%E6%9C%80%E7%BB%88%E8%A7%84%E5%88%99&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_26&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%8F%91%E5%B8%83%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E8%AE%BE%E9%99%90%E6%9C%80%E7%BB%88%E8%A7%84%E5%88%99&rtt=1"
+        },
+        {
+            "position": 27,
+            "text": "\u7537\u5b50\u79df\u8c6a\u8f66\u88c5\u5bcc\u8c6a \u8bc8\u9a9740\u591a\u540d\u5973\u6027",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E8%B1%AA%E8%BD%A6%E8%A3%85%E5%AF%8C%E8%B1%AA%20%E8%AF%88%E9%AA%9740%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_27&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E7%94%B7%E5%AD%90%E7%A7%9F%E8%B1%AA%E8%BD%A6%E8%A3%85%E5%AF%8C%E8%B1%AA+%E8%AF%88%E9%AA%9740%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&rtt=1"
+        },
+        {
+            "position": 28,
+            "text": "\u5973\u5b50\u7ed3\u5a5a\u548c\u4e9a\u8fd0\u51a0\u519b\u540c\u4f4f\u4e00\u5bb6\u9152\u5e97",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%8C%E4%BD%8F%E4%B8%80%E5%AE%B6%E9%85%92%E5%BA%97&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_28&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%8C%E4%BD%8F%E4%B8%80%E5%AE%B6%E9%85%92%E5%BA%97&rtt=1"
+        },
+        {
+            "position": 29,
+            "text": "\u970d\u542f\u521a\u79f0\u671b\u7528\u6b66\u672f\u5c55\u4e2d\u534e\u6587\u660e",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%A7%B0%E6%9C%9B%E7%94%A8%E6%AD%A6%E6%9C%AF%E5%B1%95%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_29&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%A7%B0%E6%9C%9B%E7%94%A8%E6%AD%A6%E6%9C%AF%E5%B1%95%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E&rtt=1"
+        },
+        {
+            "position": 30,
+            "text": "\u676d\u5dde\u4e9a\u8fd0\u4f1a\u81ea\u52a9\u9910\u53ea\u970020\u5143",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8F%AA%E9%9C%8020%E5%85%83&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=bb3akvnmYvEdQbK15jIQK6cI10WUPLAAS1%2Fw4r0IlICPyHmzAJQzO0IwTg&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_16_30_30&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8F%AA%E9%9C%8020%E5%85%83&rtt=1"
+        },
+        {
+            "position": 31,
+            "text": "49\u5c81\u5f20\u9707\u5cb3\u4e3e\u884c\u5a5a\u793c",
+            "link": "//www.baidu.com/s?cl=2&tn=SE_hldp03880_xzs5iv7i&wd=49%E5%B2%81%E5%BC%A0%E9%9C%87%E5%B2%B3%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC&ie=utf-8&rsv_pq=c3eab2af00003b28&oq=Biden%20visits%20Vietnam&rsv_t=2a3b3iQkAikyTIcxZbG32zIaHFImxsnSwOouRa41KkEEav5Lqa2C3zr%2B2Q&rqid=c3eab2af00003b28&rsf=0f8d7082355f3810df8a747e5b1d6be2_31_45_31&rsv_dl=fyb_right_zixun_20811&sa=0_right_fyb_pchot_20811",
+            "serpapi_link": "https://serpapi.com/search.json?engine=baidu_news&q=49%E5%B2%81%E5%BC%A0%E9%9C%87%E5%B2%B3%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC&rtt=1"
+        }
+    ]
+}

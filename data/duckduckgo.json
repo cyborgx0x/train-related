@@ -1,0 +1,324 @@
+{
+    "search_metadata": {
+        "id": "6510e176f05eb8c144af0901",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/21626a6c82b84bbc/6510e176f05eb8c144af0901.json",
+        "created_at": "2023-09-25 01:25:10 UTC",
+        "processed_at": "2023-09-25 01:25:10 UTC",
+        "duckduckgo_url": "https://duckduckgo.com/?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&kl=us-en",
+        "raw_html_file": "https://serpapi.com/searches/21626a6c82b84bbc/6510e176f05eb8c144af0901.html",
+        "prettify_html_file": "https://serpapi.com/searches/21626a6c82b84bbc/6510e176f05eb8c144af0901.prettify",
+        "total_time_taken": 2.53
+    },
+    "search_parameters": {
+        "engine": "duckduckgo",
+        "q": "2 Casino Ransomware Attacks: Caesars, MGM",
+        "kl": "us-en"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not - Forbes",
+            "link": "https://www.forbes.com/sites/suzannerowankelleher/2023/09/14/2-casino-ransomware-attacks-caesars-mgm/",
+            "date_raw": "2023-09-14T17:25:06.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Sep 14, 2023,01:25pm EDT Share to Facebook Share to Twitter Share to Linkedin The House Loses: Caesar's Entertainment paid a ransom after being cyberattacked. getty Within weeks, two of the world's...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.forbes.com.ico"
+        },
+        {
+            "position": 2,
+            "title": "Two Vegas casinos fell victim to cyberattacks, shattering the image of ...",
+            "link": "https://apnews.com/article/vegas-casinos-mgm-caesars-cyberattack-59644d2cb0f2a765770d30f268b81a11",
+            "date_raw": "2023-09-16T00:46:53.0000000",
+            "date": "Sep 16, 2023",
+            "snippet": "2 of 11 | . People walk by the MGM Grand hotel-casino Wednesday, Sept. 13, 2023, in Las Vegas. A \"cybersecurity issue\" led to the shutdown of some casino and hotel computer systems at MGM Resorts International properties across the U.S., a company official reported Monday, Sept. 11, 2023.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/apnews.com.ico"
+        },
+        {
+            "position": 3,
+            "title": "Caesars and MGM grapple with cybeattacks as their security in Vegas ...",
+            "link": "https://www.cnn.com/2023/09/14/business/caesars-mgm-casino-cyberattack/index.html",
+            "date_raw": "2023-09-14T17:50:25.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Caesars Entertainment, which owns famous hotel-casinos such as Caesars Palace, confirmed on September 7 that the hackers had stolen a copy of the customer loyalty program database, in a filing...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.cnn.com.ico"
+        },
+        {
+            "position": 4,
+            "title": "Hackers who breached casino giants MGM, Caesars also hit 3 other firms ...",
+            "link": "https://www.reuters.com/technology/hackers-who-breached-casino-giants-mgm-caesars-also-hit-3-other-firms-okta-says-2023-09-19/",
+            "date_raw": "2023-09-19T01:38:42.0000000",
+            "date": "Sep 19, 2023",
+            "snippet": "An exterior view of MGM Grand hotel and casino, after MGM Resorts shut down some computer systems due to a cyber attack in Las Vegas, Nevada, U.S., September 13, 2023.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.reuters.com.ico"
+        },
+        {
+            "position": 5,
+            "title": "Hackers say they stole 6 terabytes of data from casino giants MGM, Caesars",
+            "link": "https://www.reuters.com/business/casino-giant-caesars-confirms-data-breach-2023-09-14/",
+            "date_raw": "2023-09-14T13:15:53.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "An exterior view of Park MGM hotel and casino, after MGM Resorts shut down some computer systems due to a cyber attack in Las Vegas, Nevada, U.S., September 13, 2023.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.reuters.com.ico"
+        },
+        {
+            "position": 6,
+            "title": "Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle - WIRED",
+            "link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+            "date_raw": "2023-09-16T00:00:00.0000000",
+            "date": "Sep 16, 2023",
+            "snippet": "Sep 16, 2023 7:00 AM Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle Cyberattacks on casinos grab attention, but a steady stream of less publicized attacks leave...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.wired.com.ico"
+        },
+        {
+            "position": 7,
+            "title": "Casino giant Caesars Entertainment reports cyberattack : NPR",
+            "link": "https://www.npr.org/2023/09/15/1199681234/cyberattacks-strike-casino-giants-caesars-and-mgm",
+            "date_raw": "2023-09-15T05:42:08.0000000",
+            "date": "Sep 15, 2023",
+            "snippet": "LAS VEGAS \u2014 Casino company Caesars Entertainment on Thursday joined Las Vegas gambling rival MGM Resorts International in reporting that it was hit by a cyberattack, but added in a report to...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.npr.org.ico"
+        },
+        {
+            "position": 8,
+            "title": "Caesars Entertainment Paid Millions to Hackers in Attack",
+            "link": "https://www.bloomberg.com/news/articles/2023-09-13/caesars-entertainment-paid-millions-in-ransom-in-recent-attack",
+            "date_raw": "2023-09-13T19:03:16.0000000",
+            "date": "Sep 13, 2023",
+            "snippet": "Updated on September 14, 2023 at 6:55 AM PDT Listen 2:06 Caesars Entertainment Inc. paid tens of millions of dollars to hackers who broke into the company's systems in recent weeks and...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.bloomberg.com.ico"
+        },
+        {
+            "position": 9,
+            "title": "MGM, Caesars casino hacks point to an alliance of teens and ransomware ...",
+            "link": "https://www.washingtonpost.com/technology/2023/09/22/mgm-hack-laid-to-star-fraud/",
+            "date_raw": "2023-09-22T18:27:00.0000000",
+            "date": "Sep 22, 2023",
+            "snippet": "4 min. Recent hacks of Caesars Entertainment and casinos owned by MGM were probably carried out by teens and young adults who have allied themselves with one of the world's most notorious ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.washingtonpost.com.ico"
+        },
+        {
+            "position": 10,
+            "title": "MGM and Caesars were both hacked by the same group | Fortune",
+            "link": "https://fortune.com/2023/09/13/mgm-caesars-hacked-ransomware/",
+            "date_raw": "2023-09-13T23:03:30.0000000",
+            "date": "Sep 13, 2023",
+            "snippet": "The hackers demanded a ransom from MGM, according to two of the people. It wasn't immediately clear how much ransom was requested or if the hackers deployed ransomware to lock up the company's...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/fortune.com.ico"
+        },
+        {
+            "position": 11,
+            "title": "Caesars Entertainment says customer data stolen in cyberattack",
+            "link": "https://techcrunch.com/2023/09/14/caesars-entertainment-data-breach-cyberattack/",
+            "date_raw": "2023-09-14T13:40:00.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Caesars is the second hotel and casino giant to be hacked in recent weeks, after MGM Resorts reported a \"cybersecurity issue\" on Monday. Its outage continues into its fourth day , with no ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/techcrunch.com.ico"
+        },
+        {
+            "position": 12,
+            "title": "MGM Resorts Hack 2023, Caesars Cyberattack by 'Scattered Spider ...",
+            "link": "https://www.bloomberg.com/news/articles/2023-09-13/mgm-caesars-hacked-by-scattered-spider-in-span-of-few-weeks",
+            "date_raw": "2023-09-13T20:45:32.0000000",
+            "date": "Sep 13, 2023",
+            "snippet": "Shares of MGM were up less than 1% at 9:31 a.m. Thursday in New York, after dropping 1.2% Wednesday to $41.47. Shares of Caesars rose 1.1% at 9:31 a.m., after dropping 2.7% to $52.35. Scattered ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.bloomberg.com.ico"
+        },
+        {
+            "position": 13,
+            "title": "The chaotic and cinematic MGM casino hack, explained",
+            "link": "https://www.vox.com/technology/2023/9/15/23875113/mgm-hack-casino-vishing-cybersecurity-ransomware",
+            "date_raw": "2023-09-15T16:30:00.0000000",
+            "date": "Sep 15, 2023",
+            "snippet": "Cybersecurity Privacy & Security The chaotic and cinematic MGM casino hack, explained Are we in the middle of Ocean's 14 or is this just another ransomware attack? By Sara Morrison...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.vox.com.ico"
+        },
+        {
+            "position": 14,
+            "title": "MGM reeling from cyber 'chaos' 5 days after attack as Caesars ...",
+            "link": "https://abcnews.go.com/Business/mgm-reeling-cyber-chaos-5-days-after-attack/story?id=103148809",
+            "date_raw": "2023-09-14T00:00:00.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Hackers struck MGM Resorts on Sunday morning, rendering doors to the chain's casinos and hotels unusable. Slot machines and ATM machines were also inoperable, elevators were out of order and customers had to wait hours to check into rooms. Even the company's website remains down.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/abcnews.go.com.ico"
+        },
+        {
+            "position": 15,
+            "title": "Las Vegas casino hacks: What tourists should know about MGM cyberattack ...",
+            "link": "https://www.washingtonpost.com/travel/2023/09/19/vegas-casino-hacks-slot-machines-hotel-keys/",
+            "date_raw": "2023-09-19T15:24:57.0000000",
+            "date": "Sep 19, 2023",
+            "snippet": "September 19, 2023 at 11:24 a.m. EDT. (Illustration by Katty Huertas/The Washington Post) A recent cyberattack targeting MGM Resorts has left guests with a losing hand. In addition to a potential ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.washingtonpost.com.ico"
+        },
+        {
+            "position": 16,
+            "title": "Caesars attack linked to MGM, millions paid to hackers | Cybernews",
+            "link": "https://cybernews.com/security/caesars-palace-mgm-ransomware-attack-confirmed/",
+            "date_raw": "2023-09-14T00:51:25.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Image by Shutterstock. New sources are naming Caesars Entertainment as the first victim to be hit by a massive cyberattack on the Las Vegas strip - making MGM Resorts the second casualty in what appears to be a series of ransomware attacks targeting Sin City's hotel and casino giants starting last month.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/cybernews.com.ico"
+        },
+        {
+            "position": 17,
+            "title": "Forbes: \u00ab2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not\u00bb",
+            "link": "https://newstral.com/en/article/en/1243732150/2-casino-ransomware-attacks-caesars-paid-mgm-did-not",
+            "date_raw": "2023-09-14T17:40:12.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "T American casino giant MGM Resorts makes \u00a38.09bn takeover bid for Ladbrokes and Coral owner Entain thisismoney.co.uk. Bellagio Las Vegas. B Useless slots and cash bars annoy casino-goers after MGM cyberattack bloomberg.com. Bellagio , Las Vegas. MGM Resorts to Buy New York Casino for About $605 Million wsj.com. Yonkers , New York.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/newstral.com.ico"
+        },
+        {
+            "position": 18,
+            "title": "Caesars paid millions in ransom to cybercrime group prior to MGM ... - CNBC",
+            "link": "https://www.cnbc.com/2023/09/14/caesars-paid-millions-in-ransom-to-cybercrime-group-prior-to-mgm-hack.html",
+            "date_raw": "2023-09-14T17:40:10.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Days before MGM's computer systems were taken down in a cyberattack, casino operator Caesars paid out a ransom worth $15 million to a cybercrime group that managed to infiltrate and disrupt its ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.cnbc.com.ico"
+        },
+        {
+            "position": 19,
+            "title": "Caesars Entertainment ransomware attack targeting loyalty members ...",
+            "link": "https://www.usatoday.com/story/tech/news/2023/09/14/caesars-entertainment-cyberattack-loyalty-members-data-breach/70856343007/",
+            "date_raw": "2023-09-14T22:12:52.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "Caesars Entertainment reported a 2023 cyberattack days after a similar ransomware attack shut down many systems at MGM Resorts International.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.usatoday.com.ico"
+        },
+        {
+            "position": 20,
+            "title": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not",
+            "link": "https://energycentral.com/c/um/2-casino-ransomware-attacks-caesars-paid-mgm-did-not",
+            "date_raw": "2023-09-20T13:38:42.0000000",
+            "date": "Sep 20, 2023",
+            "snippet": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not. Within weeks, two of the world's largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the hackers' demands, while the other is resisting.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/energycentral.com.ico"
+        },
+        {
+            "position": 21,
+            "title": "Caesars Paid Ransom After Suffering Cyberattack - WSJ",
+            "link": "https://www.wsj.com/business/hospitality/caesars-paid-ransom-after-suffering-cyberattack-7792c7f0",
+            "date_raw": "2023-09-13T20:33:00.0000000",
+            "date": "Sep 13, 2023",
+            "snippet": "Caesars Entertainment paid roughly half of a $30 million ransom that hackers demanded after a cyberattack late this summer, another example of a major casino operator suffering from an attack as ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.wsj.com.ico"
+        },
+        {
+            "position": 22,
+            "title": "Gen Z Hackers behind MGM , Caesars breaches 'more sophisticated ...",
+            "link": "https://nypost.com/2023/09/22/gen-z-hackers-behind-mgm-caesars-breaches-more-sophisticated-ruthless/",
+            "date_raw": "2023-09-22T16:55:00.0000000",
+            "date": "Sep 22, 2023",
+            "snippet": "While many ransomware attacks go unpublicized, the MGM hack was a vivid example of the real-world impact of such incidents. It caused chaos in Las Vegas , as gaming machines stalled and hotel ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/nypost.com.ico"
+        },
+        {
+            "position": 23,
+            "title": "MGM ransomware attack shuts down Resorts systems in Vegas, across US",
+            "link": "https://www.usatoday.com/story/tech/news/2023/09/11/mgm-cyber-attack-impact-resorts-hotels-us/70828503007/",
+            "date_raw": "2023-09-12T00:02:26.0000000",
+            "date": "Sep 12, 2023",
+            "snippet": "Guests can make a reservation at any MGM Hotel & Casino over the phone by calling 855-788-6775. Rewards members can call member services between the hours of 6 a.m. to 11 p.m. PST at 866-761-7111.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.usatoday.com.ico"
+        },
+        {
+            "position": 24,
+            "title": "Caesars Reportedly Paid Hackers Ransomware Demand - Casino.org",
+            "link": "https://www.casino.org/news/caesars-reportedly-paid-hackers-ransomware-demand/",
+            "date_raw": "2023-09-13T00:00:00.0000000",
+            "date": "Sep 13, 2023",
+            "snippet": "Just two days after MGM Resorts International (NYSE: MGM) confirmed it was the victim of a wide-ranging cyber attack, rival Caesars Entertainment (NASDAQ: CZR) will reportedly soon tell...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.casino.org.ico"
+        },
+        {
+            "position": 25,
+            "title": "MGM casino's ESXi servers allegedly encrypted in ransomware attack",
+            "link": "https://www.bleepingcomputer.com/news/security/mgm-casinos-esxi-servers-allegedly-encrypted-in-ransomware-attack/",
+            "date_raw": "2023-09-14T22:52:07.0000000",
+            "date": "Sep 14, 2023",
+            "snippet": "September 14, 2023 06:52 PM 2 An affiliate of the BlackCat ransomware group, also known as APLHV, is behind the attack that disrupted MGM Resorts' operations, forcing the company to shut...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.bleepingcomputer.com.ico"
+        },
+        {
+            "position": 26,
+            "title": "MGM Resorts hackers broke in after tricking IT service desk",
+            "link": "https://www.thestar.com.my/tech/tech-news/2023/09/18/mgm-resorts-hackers-broke-in-after-tricking-it-service-desk",
+            "date_raw": "2023-09-18T02:05:54.0000000",
+            "date": "Sep 18, 2023",
+            "snippet": "The online attack that disrupted MGM Resorts International resorts and casinos across the country began with a social engineering breach of the company's information technology help desk ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.thestar.com.my.ico"
+        },
+        {
+            "position": 27,
+            "title": "MGM losing up to $8.4M per day as cyberattack paralyzes slot ... - MSN",
+            "link": "https://www.msn.com/en-us/money/companies/mgm-losing-up-to-84m-per-day-as-cyberattack-paralyzes-slot-machines-hotels-for-8th-straight-day-analyst/ar-AA1gUcWl",
+            "snippet": "MGM Resorts has officially entered its eighth day of \"cybersecurity issues\" that have silenced slot machines and shut down internal computer systems, costing the hotel and casino chain as much ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.msn.com.ico"
+        },
+        {
+            "position": 28,
+            "title": "Cybercriminals Attack MGM and Caesars: 6 Cybersecurity Stocks to Load ...",
+            "link": "https://247wallst.com/investing/2023/09/18/cybercriminals-attack-mgm-and-caesars-6-cybersecurity-stocks-to-load-up-on-now/",
+            "date_raw": "2023-09-18T00:00:00.0000000",
+            "date": "Sep 18, 2023",
+            "snippet": "September 18, 2023 7:10 am. If they ran Las Vegas like they did 30 or 40 years ago, there would be zero attempts to extort money from a casino unless it was with a weapon. In the digital age, that ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/247wallst.com.ico"
+        }
+    ],
+    "news_results": [
+        {
+            "position": 1,
+            "title": "2 Casino Ransomware Attacks: Caesars Paid, MGM Did Not",
+            "link": "https://www.msn.com/en-us/money/companies/2-casino-ransomware-attacks-caesars-paid-mgm-did-not/ar-AA1gJ0YE",
+            "snippet": "Within weeks, two of the world's largest casino-hotel companies\u2014MGM Resorts and Caesars\u2014were hit with ransomware attacks. One met the hackers' demands, while the other is resisting.",
+            "source": "Forbes on MSN.com",
+            "date": "10 days ago",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/65031d60dfea32c377e63cf9/0x0.jpg?format=jpg&width=1200"
+        },
+        {
+            "position": 2,
+            "title": "MGM, Caesars casino hacks point to an alliance of teens and ransomware gangs",
+            "link": "https://www.unionleader.com/news/business/mgm-caesars-casino-hacks-point-to-an-alliance-of-teens-and-ransomware-gangs/article_6bb88aed-951f-5714-b8c2-1f292bd68fc2.html?block_id=1399897",
+            "snippet": "Recent hacks of Caesars Entertainment and casinos owned by MGM were probably carried out by teens and young adults who have allied themselves with one of the world's most notorious",
+            "source": "New Hampshire Union Leader",
+            "date": "2 days ago",
+            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/f/5f/f5fe9064-50d6-55c5-a373-259eacfd5c84/650e0106a2c0d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        },
+        {
+            "position": 3,
+            "title": "Caesars And MGM Boards Lose Cybersecurity Gambles",
+            "link": "https://www.forbes.com/sites/noahbarsky/2023/09/20/caesars-and-mgm-boards-lose-cybersecurity-gambles/",
+            "snippet": "MGM took the antiquated route. Only one board member has any discernable tech experience \u2014 audit committee chair Gregory Spierkel, who ended his stint as CEO of Ingram Micro in 2012. Its board lacks a technology committee and cyber governance is tasked to the audit committee for occasional discussion.",
+            "source": "Forbes",
+            "date": "4 days ago",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/650ad23a4adf0ae1eebba901/0x0.jpg?format=jpg&crop=3463,2023,x0,y313,safe&width=1200"
+        },
+        {
+            "position": 4,
+            "title": "Hackers Who Breached Casino Giants MGM, Caesars Also Hit 3 Other Firms, Okta Says",
+            "link": "https://money.usnews.com/investing/news/articles/2023-09-18/hackers-who-breached-casino-giants-mgm-caesars-also-hit-3-other-firms-okta-says",
+            "snippet": "David Bradbury, chief security officer of the identity management company Okta, said five of the company's clients, including MGM and Caesars, had fallen victim to hacking groups known as ALPHV and Scattered Spider since August.",
+            "source": "U.S. News &amp; World Report",
+            "date": "6 days ago",
+            "thumbnail": "https://www.usnews.com/dims4/USNEWS/044c2da/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F4d%2Fdf9e76f39991452917ff36e9d868d6%2Ftag%3Areuters.com%2C2023%3Anewsml_LYNXMPEJ8I01A%3A12023-09-19T013755Z_1_LYNXMPEJ8I01A_RTROPTP_3_MGM-CYBERSECURITY.JPG"
+        },
+        {
+            "position": 5,
+            "title": "MGM reeling from cyber 'chaos' 5 days after attack as Caesars Entertainment says it was hacked too",
+            "link": "https://abcnews.go.com/Business/mgm-reeling-cyber-chaos-5-days-after-attack/story?id=103148809",
+            "snippet": "MGM Resorts International said Thursday that it is still working to resolve issues from a cyberattack as another major resort operation said it was targeted too.",
+            "source": "ABC",
+            "date": "9 days ago",
+            "thumbnail": "https://i.abcnewsfe.com/a/d2b9be83-c26a-4350-93f7-90c1024433ec/mgm-1-rt-bb-230914_1694696775851_hpMain_16x9.jpg?w=992"
+        }
+    ],
+    "news_results_link": "https://duckduckgo.com/?q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&kl=us-en&iar=news&ia=news",
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=duckduckgo&kl=us-en&q=2+Casino+Ransomware+Attacks%3A+Caesars%2C+MGM&start=28"
+    }
+}

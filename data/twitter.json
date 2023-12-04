@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "2 Casino Ransomware Attacks: Caesars, MGM site:twitter.com+",
+        "num": 20,
+        "type": "search",
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Vital Vegas (@VitalVegas) / X",
+            "link": "https://twitter.com/VitalVegas",
+            "snippet": "More MGM Resorts casinos going smoke-free in Las Vegas like Park MGM. Great news\u2014as go the big guys, others follow. 138. 71. 1,180. Vital Vegas \u00b7 @VitalVegas.",
+            "position": 1
+        },
+        {
+            "title": "Las Vegas Issues (@VegasIssues) / X",
+            "link": "https://twitter.com/VegasIssues",
+            "snippet": "MGM Resorts has been hit with a cyber security attack. Everything from gaming machines to hotel communications have mostly been inoperable for four days now.",
+            "position": 2
+        },
+        {
+            "title": "{Matt} $XRPatriot on X: \"  LAS VEGAS CYBERATTACKS MGM Resorts has been hit with a cyber security attack. Everything from gaming machines to hotel communications have mostly been ...",
+            "link": "https://twitter.com/matttttt187/status/1702146230724313597",
+            "snippet": "Everything from gaming machines to hotel communications have mostly been inoperable for four days now. \u203c\ufe0f Before the ongoing MGM Cyber ...",
+            "date": "Sep 14, 2023",
+            "attributes": {
+                "Missing": "Casino | Show results with:Casino"
+            },
+            "position": 3
+        },
+        {
+            "title": "X \\ Vital Vegas (VitalVegas@)",
+            "link": "https://twitter.com/vitalvegas?lang=ar-x-fm",
+            "snippet": "Best twist yet in the MGM cyberattack saga: Source says a guy went up to the cage at Mandalay Bay and demanded $40 million to stop the ransomware attack.",
+            "position": 4
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "2 casino ransomware attacks caesars mgm update"
+        }
+    ]
+}
